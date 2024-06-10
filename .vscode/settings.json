@@ -1,0 +1,3 @@
+{
+  "eslint.workingDirectories": ["./fe-chess", "./fe-web-components"]
+}
